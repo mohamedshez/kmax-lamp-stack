@@ -9,7 +9,7 @@ $ sudo apt update && sudo apt upgrade -y
 $ sudo apt install ansible -y
 
 
-(2). Copy & replace the '/etc/ansible/ansible.cfg' with the 'ansible.cfg.tar.gz' provided in the 'cloud.kaleao.com' link below:
+(2). Copy & replace the '/etc/ansible/ansible.cfg' with the 'ansible.cfg.tar.gz' provided in the link below:
 $ wget --no-check-certificate https://cloud.kaleao.com/index.php/s/F2uN3qSGMAh09FQ/download
 
 Assuming your working from current directory -
